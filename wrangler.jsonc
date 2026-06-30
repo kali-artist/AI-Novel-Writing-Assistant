@@ -1,0 +1,9 @@
+{
+  "name": "ai-novel-client",
+  "compatibility_date": "2024-09-23",
+  "pages_build_output_dir": "client/dist",
+  "build": {
+    "command": "npm install -g pnpm@10.6.0 && pnpm install --frozen-lockfile && pnpm --filter @ai-novel/shared build && pnpm --filter @ai-novel/client build",
+    "cwd": "."
+  }
+}
