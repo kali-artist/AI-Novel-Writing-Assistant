@@ -1,0 +1,2 @@
+id,title,archived,status,latestRunId,latestError,resourceBindingsJson,metadataJson,createdAt,updatedAt
+cmr07u3hs001qr46zaxr8guwx,新对话,0,idle,,,"{""novelId"":null,""chapterId"":null,""worldId"":null,""taskId"":null,""bookAnalysisId"":null,""formulaId"":null,""styleProfileId"":null,""baseCharacterId"":null,""knowledgeDocumentIds"":[]}",,2026-06-30T05:38:14.704+00:00,2026-06-30T05:38:14.704+00:00

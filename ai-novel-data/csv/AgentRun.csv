@@ -1,0 +1,2 @@
+id,novelId,chapterId,sessionId,goal,entryAgent,status,currentStep,currentAgent,error,startedAt,finishedAt,metadataJson,createdAt,updatedAt
+cmr28hn4p055wv16zw52ggasv,cmr23pgks000fv16zpwg1ms38,cmr24zoaz01rhv16zmcjv20hl,chapter-gen-cmr24zoaz01rhv16zmcjv20hl-1782919925591,章节 1 生成,Writer,succeeded,章节生成完成,,,2026-07-01T15:32:05.595+00:00,2026-07-01T15:36:02.575+00:00,,2026-07-01T15:32:05.593+00:00,2026-07-01T15:36:02.577+00:00

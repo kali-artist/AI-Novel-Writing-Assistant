@@ -1,0 +1,2 @@
+id,runId,seq,agentName,stepType,status,parentStepId,idempotencyKey,inputJson,outputJson,error,errorCode,provider,model,tokenUsageJson,costUsd,durationMs,createdAt
+cmr28mpzs05bov16zvuojrzt0,cmr28hn4p055wv16zw52ggasv,1,Writer,tool_result,succeeded,,,,"{""summary"":""chapter draft generated, 2635 chars""}",,,,,,,236975,2026-07-01T15:36:02.584+00:00

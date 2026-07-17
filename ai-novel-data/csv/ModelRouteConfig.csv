@@ -1,0 +1,12 @@
+id,taskType,provider,model,temperature,maxTokens,requestProtocol,structuredResponseFormat,createdAt,updatedAt
+cmr07o6di001dr46zcu2qezsp,planner,deepseek,deepseek-chat,0.3,,openai_compatible,json_object,2026-06-30T05:33:38.502+00:00,2026-06-30T05:33:38.502+00:00
+cmr07o6di001er46zmbqf3085,writer,deepseek,deepseek-chat,0.8,,openai_compatible,json_object,2026-06-30T05:33:38.502+00:00,2026-06-30T05:33:38.502+00:00
+cmr07o6di001fr46zgfi7sz83,review,deepseek,deepseek-chat,0.2,,openai_compatible,json_object,2026-06-30T05:33:38.502+00:00,2026-06-30T05:33:38.502+00:00
+cmr07o6di001gr46zptz58ngc,light_review,deepseek,deepseek-chat,0.2,,openai_compatible,json_object,2026-06-30T05:33:38.502+00:00,2026-06-30T05:33:38.502+00:00
+cmr07o6dj001hr46zee088r98,critical_review,deepseek,deepseek-chat,0.1,,openai_compatible,json_object,2026-06-30T05:33:38.503+00:00,2026-06-30T05:33:38.503+00:00
+cmr07o6dj001ir46ztsclt8cu,repair,deepseek,deepseek-chat,0.4,,openai_compatible,json_object,2026-06-30T05:33:38.503+00:00,2026-06-30T05:33:38.503+00:00
+cmr07o6dj001jr46zph0sdarf,replan,deepseek,deepseek-chat,0.2,,openai_compatible,json_object,2026-06-30T05:33:38.503+00:00,2026-06-30T05:33:38.503+00:00
+cmr07o6dj001kr46z55b42izl,state_resolution,deepseek,deepseek-chat,0.1,,openai_compatible,json_object,2026-06-30T05:33:38.503+00:00,2026-06-30T05:33:38.503+00:00
+cmr07o6dj001lr46zwbjm4mnl,summary,deepseek,deepseek-chat,0.2,,openai_compatible,json_object,2026-06-30T05:33:38.503+00:00,2026-06-30T05:33:38.503+00:00
+cmr07o6dj001mr46zocmvg8ev,fact_extraction,deepseek,deepseek-chat,0.2,,openai_compatible,json_object,2026-06-30T05:33:38.503+00:00,2026-06-30T05:33:38.503+00:00
+cmr07o6dj001nr46znsy8cd17,chat,deepseek,deepseek-chat,0.7,,openai_compatible,json_object,2026-06-30T05:33:38.503+00:00,2026-06-30T05:33:38.503+00:00
